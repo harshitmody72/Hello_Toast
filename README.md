@@ -12,14 +12,14 @@ This app extends Hello World, showing how to create a basic layout with a TextVi
 
 # Download APK from here
 
-> [APP]()
+> [APP](https://github.com/harshitmody72/Hello_Toast/blob/master/Resources/apk/debug/app-debug.apk?raw=true)
 
 # Preview
 
-> ![]()
+> ![](https://github.com/harshitmody72/Hello_Toast/blob/master/Resources/1.png)
 >
->![]()
+> ![](https://github.com/harshitmody72/Hello_Toast/blob/master/Resources/2.png)
 >
->![]()
+> ![](https://github.com/harshitmody72/Hello_Toast/blob/master/Resources/3.png)
 >
->![]()
+> ![](https://github.com/harshitmody72/Hello_Toast/blob/master/Resources/4.png)
