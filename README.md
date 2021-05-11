@@ -1,6 +1,8 @@
 # HelloToast 
 
-Simple app with two buttons: one to count and one to show a Toast.
+* Simple app with two buttons: one to count and one to show a Toast.
+
+* Using ConstraintLayout
 
 ## [ConstraintLayout](https://github.com/harshitmody72/Hello_Toast/blob/Assignment_5.2.A/README.md)
 
